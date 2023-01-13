@@ -4,7 +4,7 @@
     padding: 0;
 }
 body{
-    background: url('/Assests/pexels-pixabay-531880.jpg') no-repeat;
+    background: url('../Assests/pexels-pixabay-531880.jpg') no-repeat;
     background-size: cover;
 }
 .navbar{

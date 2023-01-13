@@ -5,7 +5,7 @@
   font-family: sans-serif;
 }
 body {
-  background-image: url('/Assests/pexels-moose-photos-1037992.jpg');
+  background-image: url('../Assests/pexels-moose-photos-1037992.jpg');
   height: 100vh;
   width: 100%;
   background-size: cover;
