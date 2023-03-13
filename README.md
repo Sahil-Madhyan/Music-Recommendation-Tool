@@ -7,4 +7,5 @@ Music recommendation tools are a great way to discover new artists or songs that
 
 - [@Sahil Madhyan](https://github.com/Sahil-Madhyan)
 - [@Siddhant Kodolkar](https://github.com/SiddhantKodolkar)
+- [@Shalini Mirani](https://github.com/Shalini-Mirani)
 
